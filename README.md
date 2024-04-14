@@ -1,1 +1,1 @@
-### Projeto usando Machine Learning para determinar a estimativa de vendas de uma empresa baseado na quantidade de valor invwestido em marketing
+### Projeto de Ciência de Dados usando Machine Learning para determinar a estimativa de vendas de uma empresa baseado na quantidade de valor investido em marketing, tecnologias utilizadas Python e as libs Scikit-Learn, Panda, Numpy e Matplotlib.
